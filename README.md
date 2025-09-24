@@ -1,6 +1,6 @@
 ### Anthony Darrouzet-Nardi
 
-I'm an ecosystem ecologist working at the University of Texas at El Paso (UTEP). I study belowground processes in drylands and teach reproducible analysis in R, data QC, and scientific visualization. This page links to R packages, analysis scripts tied to papers, and selected teaching materials.
+I'm an ecosystem ecologist at the University of Texas at El Paso (UTEP). I study belowground processes and teach reproducible analysis in R, data QC, and scientific visualization. Some R packages I've developed as well as example analysis scripts for published papers can be found within. I also am working on uploading teaching materials and visualization template type materials.
 
 - Website: http://anthony.darrouzet-nardi.net/
 - Google Scholar: https://scholar.google.com/citations?user=aeM-n3oAAAAJ&hl=en
