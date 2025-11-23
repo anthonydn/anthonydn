@@ -13,6 +13,7 @@ I'm an ecosystem ecologist at the University of Texas at El Paso (UTEP). I study
 #### Software & teaching
 - **qctimeseries** — R tools for quality control and visualization of large environmental time-series.
 - **treateffect** — Functions to estimate and visualize treatment effects in manipulative experiments.
+- **hotspots** — Identify hot spots in a data distribution in a robust way that distinguishes from statistical outliers.
 
 #### Publications-linked code
 - **co2displacement** — Analysis scripts for the CO₂ displacement manuscript (in review).
