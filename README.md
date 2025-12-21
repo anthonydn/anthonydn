@@ -1,6 +1,6 @@
 ### Anthony Darrouzet-Nardi
 
-I'm an ecosystem ecologist at the University of Texas at El Paso (UTEP). I study belowground processes and teach graduate-level statistical analysis and scientific visualization in R. Some R packages I've developed as well as example analysis scripts for published papers can be found within. I also am working on uploading teaching materials and visualization template type materials.
+I'm an ecosystem ecologist at the University of Texas at El Paso (UTEP). Some R packages I've developed as well as example analysis scripts for published papers are shared here.
 
 - Website: http://anthony.darrouzet-nardi.net/
 - Google Scholar: https://scholar.google.com/citations?user=aeM-n3oAAAAJ&hl=en
@@ -10,7 +10,7 @@ I'm an ecosystem ecologist at the University of Texas at El Paso (UTEP). I study
 
 ---
 
-#### Software & teaching
+#### R packages
 - **qctimeseries** — R tools for quality control and visualization of large environmental time-series.
 - **treateffect** — Functions to estimate and visualize treatment effects in manipulative experiments.
 - **hotspots** — Identify hot spots in a data distribution in a robust way that distinguishes from statistical outliers.
