@@ -17,9 +17,9 @@ I'm an ecosystem ecologist at the University of Texas at El Paso (UTEP). Some R 
 
 #### Publications-linked code
 - **co2displacement** — Analysis scripts for the CO₂ displacement manuscript (in review).
-- **jornada_tower_summer_nutrients** — REU-collected data and analysis for Jornada summer nutrient effects (published).
-- **warmed_biocrusts_nine_years** — Code from a nine-year biocrust warming/watering study (USGS/DOE postdoc).
-- **snowmelt_belowground** — Package and scripts for belowground effects of early snowmelt (first postdoc).
+- **jornada_tower_summer_nutrients** — REU-collected data and analysis for Jornada summer nutrient effects paper.
+- **warmed_biocrusts_nine_years** — Code from a nine-year biocrust warming/watering study in Castle Valley, Utah.
+- **snowmelt_belowground** — Package and scripts for belowground effects of early snowmelt experiment in Alaska.
 
 #### Projects
 - **crustnet-site** — CrustNet collaboration website (GitHub Pages): https://crustnet.org/
